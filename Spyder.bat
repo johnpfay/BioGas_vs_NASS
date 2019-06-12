@@ -1,0 +1,1 @@
+%localappdata%\ESRI\conda\envs\biogas\scripts\spyder.exe -w %cd% -p %cd%
